@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+
+h1, div {
+  text-align: center;
+}
+
+#characters, #password {
+  width: 200px;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+#checkboxes, #buttons {
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+}
